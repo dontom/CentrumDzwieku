@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font: 100% normal Arial, Helvetica, sans-serif;
+    background: white;
+}
+div.message {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    mrgin-top: 200px;
+    background: grey;
+    color: lightgrey;
+    text-align: center;
+    padding-top: 100px;
+}
+p.message1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+

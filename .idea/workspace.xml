@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7514ba19-3fb3-4bee-9edc-80dc14c1d2f6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.eot" afterPath="$PROJECT_DIR$/css/fonts/Icons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.ttf" afterPath="$PROJECT_DIR$/css/fonts/Icons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.woff" afterPath="$PROJECT_DIR$/css/fonts/Icons.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="$PROJECT_DIR$/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/back.png" afterPath="$PROJECT_DIR$/img/supersized/back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/bg-black.png" afterPath="$PROJECT_DIR$/img/supersized/bg-black.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/bg-hover.png" afterPath="$PROJECT_DIR$/img/supersized/bg-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/blank.gif" afterPath="$PROJECT_DIR$/css/fancybox/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/button-tray-down.png" afterPath="$PROJECT_DIR$/img/supersized/button-tray-down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/button-tray-up.png" afterPath="$PROJECT_DIR$/img/supersized/button-tray-up.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/centrumdzwieku.png" afterPath="$PROJECT_DIR$/img/centrumdzwieku.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/fancybox_loading.gif" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/fancybox_overlay.png" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/fancybox_sprite.png" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/fb_icon.png" afterPath="$PROJECT_DIR$/img/fb_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/filter-icon.png" afterPath="$PROJECT_DIR$/img/filter-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/filter-icon_@2x.png" afterPath="$PROJECT_DIR$/img/filter-icon_@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/forward.png" afterPath="$PROJECT_DIR$/img/supersized/forward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/g_icon.png" afterPath="$PROJECT_DIR$/img/g_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gray-people.jpg" afterPath="$PROJECT_DIR$/img/gray-people.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gray-people.png" afterPath="$PROJECT_DIR$/img/gray-people.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-01-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-01-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-01.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-02-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-02-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-02.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-03-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-03-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-03.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-04-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-04-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-04.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-05-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-05-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-05.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-06-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-06-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-06.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-07-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-07-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-07.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-08.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-09.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image01.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image02.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image03.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image04.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/in_icon.png" afterPath="$PROJECT_DIR$/img/in_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-small.png" afterPath="$PROJECT_DIR$/img/logo-small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-small2.png" afterPath="$PROJECT_DIR$/img/logo-small2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-small3.png" afterPath="$PROJECT_DIR$/img/logo-small3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo2.png" afterPath="$PROJECT_DIR$/img/logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_@2x.png" afterPath="$PROJECT_DIR$/img/logo_@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_ill.png" afterPath="$PROJECT_DIR$/img/logo_ill.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/menu-mobile.png" afterPath="$PROJECT_DIR$/img/menu-mobile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/menu-mobile_@2x.png" afterPath="$PROJECT_DIR$/img/menu-mobile_@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/music-691012.jpg" afterPath="$PROJECT_DIR$/img/music-691012.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/nav-bg.png" afterPath="$PROJECT_DIR$/img/supersized/nav-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/nav-dot.png" afterPath="$PROJECT_DIR$/img/supersized/nav-dot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/p_icon.png" afterPath="$PROJECT_DIR$/img/p_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/pause.png" afterPath="$PROJECT_DIR$/img/supersized/pause.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/play-botton.png" afterPath="$PROJECT_DIR$/img/play-botton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/play.png" afterPath="$PROJECT_DIR$/img/supersized/play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile-01.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile-02.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile-03.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/progress-back.png" afterPath="$PROJECT_DIR$/img/supersized/progress-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/progress-bar.png" afterPath="$PROJECT_DIR$/img/supersized/progress-bar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/progress.gif" afterPath="$PROJECT_DIR$/img/supersized/progress.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/strona_2.png" afterPath="$PROJECT_DIR$/img/strona_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/supersized-logo.png" afterPath="$PROJECT_DIR$/img/supersized/supersized-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/t_icon.png" afterPath="$PROJECT_DIR$/img/t_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/thumb-back.png" afterPath="$PROJECT_DIR$/img/supersized/thumb-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/thumb-forward.png" afterPath="$PROJECT_DIR$/img/supersized/thumb-forward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tlo-big.jpg" afterPath="$PROJECT_DIR$/img/tlo-big.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tlo-big.png" afterPath="$PROJECT_DIR$/img/tlo-big.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tlo.png" afterPath="$PROJECT_DIR$/img/tlo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tm_icon.png" afterPath="$PROJECT_DIR$/img/tm_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/yt_icon.png" afterPath="$PROJECT_DIR$/img/yt_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.svg" afterPath="$PROJECT_DIR$/css/fonts/Icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.2.md" afterPath="$PROJECT_DIR$/README.2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addbanddb.php" afterPath="$PROJECT_DIR$/addbanddb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addclub.php" afterPath="$PROJECT_DIR$/addclub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addclubdb.php" afterPath="$PROJECT_DIR$/addclubdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addevent.php" afterPath="$PROJECT_DIR$/addevent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addeventdb.php" afterPath="$PROJECT_DIR$/addeventdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/admin.css" afterPath="$PROJECT_DIR$/css/admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin.php" afterPath="$PROJECT_DIR$/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminmenu.php" afterPath="$PROJECT_DIR$/adminmenu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analyticstracking.php" afterPath="$PROJECT_DIR$/analyticstracking.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/band.php" afterPath="$PROJECT_DIR$/band.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrapjs.php" afterPath="$PROJECT_DIR$/bootstrapjs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checksession.php" afterPath="$PROJECT_DIR$/checksession.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contact_form.js" afterPath="$PROJECT_DIR$/js/contact_form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact_form.php" afterPath="$PROJECT_DIR$/contact_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/cover.css" afterPath="$PROJECT_DIR$/css/cover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/createdb.php" afterPath="$PROJECT_DIR$/createdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database.php" afterPath="$PROJECT_DIR$/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edditevent.php" afterPath="$PROJECT_DIR$/edditevent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edditeventdb.php" afterPath="$PROJECT_DIR$/edditeventdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events.php" afterPath="$PROJECT_DIR$/events.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts.css" afterPath="$PROJECT_DIR$/css/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/head.php" afterPath="$PROJECT_DIR$/head.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/twitter/index.php" afterPath="$PROJECT_DIR$/js/twitter/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/js/jquery.fancybox-media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/css/fancybox/jquery.fancybox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.isotope.js" afterPath="$PROJECT_DIR$/js/jquery.isotope.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.tweet.js" afterPath="$PROJECT_DIR$/js/jquery.tweet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/layout.css" afterPath="$PROJECT_DIR$/css/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/login.css" afterPath="$PROJECT_DIR$/css/login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logout.php" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modernizr.js" afterPath="$PROJECT_DIR$/js/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/placeholder.js" afterPath="$PROJECT_DIR$/js/placeholder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="$PROJECT_DIR$/js/plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/shortcodes.css" afterPath="$PROJECT_DIR$/css/shortcodes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="$PROJECT_DIR$/shortcodes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slide.php" afterPath="$PROJECT_DIR$/slide.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/smooth-scroll.js" afterPath="$PROJECT_DIR$/js/smooth-scroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/stop.js" afterPath="$PROJECT_DIR$/js/stop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/supersized.3.2.7.min.js" afterPath="$PROJECT_DIR$/js/supersized.3.2.7.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/supersized.css" afterPath="$PROJECT_DIR$/css/supersized.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/supersized.shutter.css" afterPath="$PROJECT_DIR$/css/supersized.shutter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/twitter/lib/tmhOAuth.php" afterPath="$PROJECT_DIR$/js/twitter/lib/tmhOAuth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/twitter/lib/tmhUtilities.php" afterPath="$PROJECT_DIR$/js/twitter/lib/tmhUtilities.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/waypoints-sticky.js" afterPath="$PROJECT_DIR$/js/waypoints-sticky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/waypoints.js" afterPath="$PROJECT_DIR$/js/waypoints.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="Muzycy2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Muzycy2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="addbanddb.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addbanddb.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edditband.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edditband.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addeventdb.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addeventdb.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edditbanddb.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edditbanddb.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addevent.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addevent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="16" selection-start-line="44" selection-start-column="8" selection-end-line="47" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.046838406">
+              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <folding>
+                <marker date="1440071204362" expanded="true" signature="1475:1942" placeholder="SELECT ev.EV..BANDS_TB..." />
+                <marker date="1440071204362" expanded="true" signature="7874:7934" placeholder="SELECT GATUN..BANDS_TB..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edditevent.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edditevent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edditeventdb.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edditeventdb.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="band.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/band.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/addband.php" />
+        <option value="$PROJECT_DIR$/addbanddb.php" />
+        <option value="$PROJECT_DIR$/edditbanddb.php" />
+        <option value="$PROJECT_DIR$/edditband.php" />
+        <option value="$PROJECT_DIR$/addevent.php" />
+        <option value="$PROJECT_DIR$/addeventdb.php" />
+        <option value="$PROJECT_DIR$/edditevent.php" />
+        <option value="$PROJECT_DIR$/edditeventdb.php" />
+        <option value="$PROJECT_DIR$/band.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Muzycy2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Muzycy2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CentrumDzwieku" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7514ba19-3fb3-4bee-9edc-80dc14c1d2f6" name="Default" comment="" />
+      <created>1431725690202</created>
+      <option name="number" value="Default" />
+      <updated>1431725690202</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/addbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditband.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addeventdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="16" selection-start-line="44" selection-start-column="8" selection-end-line="47" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1440071204362" expanded="true" signature="1475:1942" placeholder="SELECT ev.EV..BANDS_TB..." />
+            <marker date="1440071204362" expanded="true" signature="7874:7934" placeholder="SELECT GATUN..BANDS_TB..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditeventdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/band.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addband.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="20" selection-start-line="44" selection-start-column="12" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditband.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addeventdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="83" selection-start-line="99" selection-start-column="83" selection-end-line="99" selection-end-column="83" />
+          <folding>
+            <marker date="1440071204362" expanded="true" signature="1475:1942" placeholder="SELECT ev.EV..BANDS_TB..." />
+            <marker date="1440071204362" expanded="true" signature="7874:7934" placeholder="SELECT GATUN..BANDS_TB..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditeventdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addband.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="20" selection-start-line="44" selection-start-column="12" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditband.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="72" selection-start-line="67" selection-start-column="72" selection-end-line="67" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditeventdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addclub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addband.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="20" selection-start-line="44" selection-start-column="12" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditband.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addeventdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="16" selection-start-line="44" selection-start-column="8" selection-end-line="47" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditeventdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/band.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.046838406">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <marker date="1440071204362" expanded="true" signature="1475:1942" placeholder="SELECT ev.EV..BANDS_TB..." />
+            <marker date="1440071204362" expanded="true" signature="7874:7934" placeholder="SELECT GATUN..BANDS_TB..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
