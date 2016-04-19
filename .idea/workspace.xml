@@ -2,217 +2,217 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7514ba19-3fb3-4bee-9edc-80dc14c1d2f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.eot" afterPath="$PROJECT_DIR$/css/fonts/Icons.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.ttf" afterPath="$PROJECT_DIR$/css/fonts/Icons.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.woff" afterPath="$PROJECT_DIR$/css/fonts/Icons.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="$PROJECT_DIR$/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/back.png" afterPath="$PROJECT_DIR$/img/supersized/back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/bg-black.png" afterPath="$PROJECT_DIR$/img/supersized/bg-black.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/bg-hover.png" afterPath="$PROJECT_DIR$/img/supersized/bg-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/blank.gif" afterPath="$PROJECT_DIR$/css/fancybox/blank.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/button-tray-down.png" afterPath="$PROJECT_DIR$/img/supersized/button-tray-down.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/button-tray-up.png" afterPath="$PROJECT_DIR$/img/supersized/button-tray-up.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/centrumdzwieku.png" afterPath="$PROJECT_DIR$/img/centrumdzwieku.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/fancybox_loading.gif" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_loading.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/fancybox_overlay.png" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_overlay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/fancybox_sprite.png" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_sprite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/fb_icon.png" afterPath="$PROJECT_DIR$/img/fb_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/filter-icon.png" afterPath="$PROJECT_DIR$/img/filter-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/filter-icon_@2x.png" afterPath="$PROJECT_DIR$/img/filter-icon_@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/forward.png" afterPath="$PROJECT_DIR$/img/supersized/forward.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/g_icon.png" afterPath="$PROJECT_DIR$/img/g_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gray-people.jpg" afterPath="$PROJECT_DIR$/img/gray-people.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gray-people.png" afterPath="$PROJECT_DIR$/img/gray-people.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-01-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-01-full.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-01.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-02-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-02-full.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-02.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-03-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-03-full.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-03.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-04-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-04-full.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-04.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-05-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-05-full.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-05.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-06-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-06-full.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-06.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-07-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-07-full.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-07.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-07.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-08.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-08.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-09.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-09.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image01.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image01.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image02.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image03.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image04.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/in_icon.png" afterPath="$PROJECT_DIR$/img/in_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-small.png" afterPath="$PROJECT_DIR$/img/logo-small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-small2.png" afterPath="$PROJECT_DIR$/img/logo-small2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-small3.png" afterPath="$PROJECT_DIR$/img/logo-small3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo2.png" afterPath="$PROJECT_DIR$/img/logo2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_@2x.png" afterPath="$PROJECT_DIR$/img/logo_@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_ill.png" afterPath="$PROJECT_DIR$/img/logo_ill.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/menu-mobile.png" afterPath="$PROJECT_DIR$/img/menu-mobile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/menu-mobile_@2x.png" afterPath="$PROJECT_DIR$/img/menu-mobile_@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/music-691012.jpg" afterPath="$PROJECT_DIR$/img/music-691012.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/nav-bg.png" afterPath="$PROJECT_DIR$/img/supersized/nav-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/nav-dot.png" afterPath="$PROJECT_DIR$/img/supersized/nav-dot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/p_icon.png" afterPath="$PROJECT_DIR$/img/p_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/pause.png" afterPath="$PROJECT_DIR$/img/supersized/pause.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/play-botton.png" afterPath="$PROJECT_DIR$/img/play-botton.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/play.png" afterPath="$PROJECT_DIR$/img/supersized/play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile-01.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile-02.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile-03.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/progress-back.png" afterPath="$PROJECT_DIR$/img/supersized/progress-back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/progress-bar.png" afterPath="$PROJECT_DIR$/img/supersized/progress-bar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/progress.gif" afterPath="$PROJECT_DIR$/img/supersized/progress.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/strona_2.png" afterPath="$PROJECT_DIR$/img/strona_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/supersized-logo.png" afterPath="$PROJECT_DIR$/img/supersized/supersized-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/t_icon.png" afterPath="$PROJECT_DIR$/img/t_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/thumb-back.png" afterPath="$PROJECT_DIR$/img/supersized/thumb-back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/thumb-forward.png" afterPath="$PROJECT_DIR$/img/supersized/thumb-forward.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tlo-big.jpg" afterPath="$PROJECT_DIR$/img/tlo-big.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tlo-big.png" afterPath="$PROJECT_DIR$/img/tlo-big.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tlo.png" afterPath="$PROJECT_DIR$/img/tlo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tm_icon.png" afterPath="$PROJECT_DIR$/img/tm_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/yt_icon.png" afterPath="$PROJECT_DIR$/img/yt_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.svg" afterPath="$PROJECT_DIR$/css/fonts/Icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.2.md" afterPath="$PROJECT_DIR$/README.2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addbanddb.php" afterPath="$PROJECT_DIR$/addbanddb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addclub.php" afterPath="$PROJECT_DIR$/addclub.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addclubdb.php" afterPath="$PROJECT_DIR$/addclubdb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addevent.php" afterPath="$PROJECT_DIR$/addevent.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addeventdb.php" afterPath="$PROJECT_DIR$/addeventdb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/admin.css" afterPath="$PROJECT_DIR$/css/admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin.php" afterPath="$PROJECT_DIR$/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminmenu.php" afterPath="$PROJECT_DIR$/adminmenu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analyticstracking.php" afterPath="$PROJECT_DIR$/analyticstracking.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/band.php" afterPath="$PROJECT_DIR$/band.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrapjs.php" afterPath="$PROJECT_DIR$/bootstrapjs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checksession.php" afterPath="$PROJECT_DIR$/checksession.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contact_form.js" afterPath="$PROJECT_DIR$/js/contact_form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact_form.php" afterPath="$PROJECT_DIR$/contact_form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/cover.css" afterPath="$PROJECT_DIR$/css/cover.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/createdb.php" afterPath="$PROJECT_DIR$/createdb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database.php" afterPath="$PROJECT_DIR$/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edditevent.php" afterPath="$PROJECT_DIR$/edditevent.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edditeventdb.php" afterPath="$PROJECT_DIR$/edditeventdb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events.php" afterPath="$PROJECT_DIR$/events.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts.css" afterPath="$PROJECT_DIR$/css/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/head.php" afterPath="$PROJECT_DIR$/head.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/twitter/index.php" afterPath="$PROJECT_DIR$/js/twitter/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/js/jquery.fancybox-media.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/css/fancybox/jquery.fancybox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.isotope.js" afterPath="$PROJECT_DIR$/js/jquery.isotope.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.tweet.js" afterPath="$PROJECT_DIR$/js/jquery.tweet.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/layout.css" afterPath="$PROJECT_DIR$/css/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/login.css" afterPath="$PROJECT_DIR$/css/login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logout.php" afterPath="$PROJECT_DIR$/logout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modernizr.js" afterPath="$PROJECT_DIR$/js/modernizr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/placeholder.js" afterPath="$PROJECT_DIR$/js/placeholder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="$PROJECT_DIR$/js/plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/shortcodes.css" afterPath="$PROJECT_DIR$/css/shortcodes.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="$PROJECT_DIR$/shortcodes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slide.php" afterPath="$PROJECT_DIR$/slide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/smooth-scroll.js" afterPath="$PROJECT_DIR$/js/smooth-scroll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/stop.js" afterPath="$PROJECT_DIR$/js/stop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/in_icon.png" afterPath="$PROJECT_DIR$/img/in_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/t_icon.png" afterPath="$PROJECT_DIR$/img/t_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image01.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/back.png" afterPath="$PROJECT_DIR$/img/supersized/back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrapjs.php" afterPath="$PROJECT_DIR$/bootstrapjs.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/supersized.3.2.7.min.js" afterPath="$PROJECT_DIR$/js/supersized.3.2.7.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/supersized.css" afterPath="$PROJECT_DIR$/css/supersized.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/supersized.shutter.css" afterPath="$PROJECT_DIR$/css/supersized.shutter.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/twitter/lib/tmhOAuth.php" afterPath="$PROJECT_DIR$/js/twitter/lib/tmhOAuth.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/twitter/lib/tmhUtilities.php" afterPath="$PROJECT_DIR$/js/twitter/lib/tmhUtilities.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/waypoints-sticky.js" afterPath="$PROJECT_DIR$/js/waypoints-sticky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-04.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/list.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/waypoints.js" afterPath="$PROJECT_DIR$/js/waypoints.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="$PROJECT_DIR$/shortcodes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-01.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.tweet.js" afterPath="$PROJECT_DIR$/js/jquery.tweet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/supersized.css" afterPath="$PROJECT_DIR$/css/supersized.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/fancybox_sprite.png" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.eot" afterPath="$PROJECT_DIR$/css/fonts/Icons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edditeventdb.php" afterPath="$PROJECT_DIR$/edditeventdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/filter-icon_@2x.png" afterPath="$PROJECT_DIR$/img/filter-icon_@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/menu-mobile.png" afterPath="$PROJECT_DIR$/img/menu-mobile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/login.css" afterPath="$PROJECT_DIR$/css/login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/play.png" afterPath="$PROJECT_DIR$/img/supersized/play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/progress.gif" afterPath="$PROJECT_DIR$/img/supersized/progress.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/twitter/lib/tmhOAuth.php" afterPath="$PROJECT_DIR$/js/twitter/lib/tmhOAuth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/strona_2.png" afterPath="$PROJECT_DIR$/img/strona_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-08.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/fancybox_overlay.png" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile-01.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-02.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/progress-back.png" afterPath="$PROJECT_DIR$/img/supersized/progress-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edditevent.php" afterPath="$PROJECT_DIR$/edditevent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-small3.png" afterPath="$PROJECT_DIR$/img/logo-small3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/forward.png" afterPath="$PROJECT_DIR$/img/supersized/forward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image04.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/nav-bg.png" afterPath="$PROJECT_DIR$/img/supersized/nav-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/menu-mobile_@2x.png" afterPath="$PROJECT_DIR$/img/menu-mobile_@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addeventdb.php" afterPath="$PROJECT_DIR$/addeventdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/yt_icon.png" afterPath="$PROJECT_DIR$/img/yt_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database.php" afterPath="$PROJECT_DIR$/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-05.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/supersized.shutter.css" afterPath="$PROJECT_DIR$/css/supersized.shutter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contact_form.js" afterPath="$PROJECT_DIR$/js/contact_form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/filter-icon.png" afterPath="$PROJECT_DIR$/img/filter-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/fb_icon.png" afterPath="$PROJECT_DIR$/img/fb_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/progress-bar.png" afterPath="$PROJECT_DIR$/img/supersized/progress-bar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/layout.css" afterPath="$PROJECT_DIR$/css/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gray-people.png" afterPath="$PROJECT_DIR$/img/gray-people.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tlo-big.png" afterPath="$PROJECT_DIR$/img/tlo-big.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-03-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-03-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/centrumdzwieku.png" afterPath="$PROJECT_DIR$/img/centrumdzwieku.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addevent.php" afterPath="$PROJECT_DIR$/addevent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/pause.png" afterPath="$PROJECT_DIR$/img/supersized/pause.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/p_icon.png" afterPath="$PROJECT_DIR$/img/p_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/cover.css" afterPath="$PROJECT_DIR$/css/cover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/bg-black.png" afterPath="$PROJECT_DIR$/img/supersized/bg-black.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/twitter/index.php" afterPath="$PROJECT_DIR$/js/twitter/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-04-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-04-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_@2x.png" afterPath="$PROJECT_DIR$/img/logo_@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/thumb-back.png" afterPath="$PROJECT_DIR$/img/supersized/thumb-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-06-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-06-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminmenu.php" afterPath="$PROJECT_DIR$/adminmenu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/play-botton.png" afterPath="$PROJECT_DIR$/img/play-botton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/nav-dot.png" afterPath="$PROJECT_DIR$/img/supersized/nav-dot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts.css" afterPath="$PROJECT_DIR$/css/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-01-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-01-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.woff" afterPath="$PROJECT_DIR$/css/fonts/Icons.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tlo.png" afterPath="$PROJECT_DIR$/img/tlo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/placeholder.js" afterPath="$PROJECT_DIR$/js/placeholder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/shortcodes.css" afterPath="$PROJECT_DIR$/css/shortcodes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-02-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-02-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gray-people.jpg" afterPath="$PROJECT_DIR$/img/gray-people.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider-images/image03.jpg" afterPath="$PROJECT_DIR$/img/slider-images/image03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.isotope.js" afterPath="$PROJECT_DIR$/js/jquery.isotope.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analyticstracking.php" afterPath="$PROJECT_DIR$/analyticstracking.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/supersized-logo.png" afterPath="$PROJECT_DIR$/img/supersized/supersized-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/music-691012.jpg" afterPath="$PROJECT_DIR$/img/music-691012.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addclubdb.php" afterPath="$PROJECT_DIR$/addclubdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addclub.php" afterPath="$PROJECT_DIR$/addclub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-05-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-05-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tm_icon.png" afterPath="$PROJECT_DIR$/img/tm_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/fancybox_loading.gif" afterPath="$PROJECT_DIR$/css/fancybox/fancybox_loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tlo-big.jpg" afterPath="$PROJECT_DIR$/img/tlo-big.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/head.php" afterPath="$PROJECT_DIR$/head.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/waypoints-sticky.js" afterPath="$PROJECT_DIR$/js/waypoints-sticky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modernizr.js" afterPath="$PROJECT_DIR$/js/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/stop.js" afterPath="$PROJECT_DIR$/js/stop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-09.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/button-tray-up.png" afterPath="$PROJECT_DIR$/img/supersized/button-tray-up.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/g_icon.png" afterPath="$PROJECT_DIR$/img/g_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin.php" afterPath="$PROJECT_DIR$/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo2.png" afterPath="$PROJECT_DIR$/img/logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/bg-hover.png" afterPath="$PROJECT_DIR$/img/supersized/bg-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.2.md" afterPath="$PROJECT_DIR$/README.2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addbanddb.php" afterPath="$PROJECT_DIR$/addbanddb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/admin.css" afterPath="$PROJECT_DIR$/css/admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logout.php" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-small.png" afterPath="$PROJECT_DIR$/img/logo-small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile-02.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.svg" afterPath="$PROJECT_DIR$/css/fonts/Icons.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="$PROJECT_DIR$/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-03.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/thumb-forward.png" afterPath="$PROJECT_DIR$/img/supersized/thumb-forward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/fonts/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Icons.ttf" afterPath="$PROJECT_DIR$/css/fonts/Icons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/smooth-scroll.js" afterPath="$PROJECT_DIR$/js/smooth-scroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/css/fancybox/jquery.fancybox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/twitter/lib/tmhUtilities.php" afterPath="$PROJECT_DIR$/js/twitter/lib/tmhUtilities.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/full/image-07-full.jpg" afterPath="$PROJECT_DIR$/img/work/full/image-07-full.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slide.php" afterPath="$PROJECT_DIR$/slide.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact_form.php" afterPath="$PROJECT_DIR$/contact_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile-03.jpg" afterPath="$PROJECT_DIR$/img/profile/profile-03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/js/jquery.fancybox-media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-06.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/supersized/button-tray-down.png" afterPath="$PROJECT_DIR$/img/supersized/button-tray-down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_ill.png" afterPath="$PROJECT_DIR$/img/logo_ill.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events.php" afterPath="$PROJECT_DIR$/events.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fancybox/blank.gif" afterPath="$PROJECT_DIR$/css/fancybox/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/createdb.php" afterPath="$PROJECT_DIR$/createdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="$PROJECT_DIR$/js/plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/fonts/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checksession.php" afterPath="$PROJECT_DIR$/checksession.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work/thumbs/image-07.jpg" afterPath="$PROJECT_DIR$/img/work/thumbs/image-07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/css/fonts/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/fonts/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/band.php" afterPath="$PROJECT_DIR$/band.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-small2.png" afterPath="$PROJECT_DIR$/img/logo-small2.png" />
     </list>
     <ignored path="Muzycy2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -233,7 +233,7 @@
     <favorites_list name="Muzycy2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="addbanddb.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/addbanddb.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -287,12 +287,9 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.046838406">
+            <state vertical-scroll-proportion="0.047003526">
               <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-              <folding>
-                <marker date="1440071204362" expanded="true" signature="1475:1942" placeholder="SELECT ev.EV..BANDS_TB..." />
-                <marker date="1440071204362" expanded="true" signature="7874:7934" placeholder="SELECT GATUN..BANDS_TB..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -362,11 +359,9 @@
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-  </component>
-  <component name="NamedScopeManager">
-    <order />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -396,10 +391,11 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -420,6 +416,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -473,27 +470,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -556,10 +553,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1440071204362" expanded="true" signature="1475:1942" placeholder="SELECT ev.EV..BANDS_TB..." />
-            <marker date="1440071204362" expanded="true" signature="7874:7934" placeholder="SELECT GATUN..BANDS_TB..." />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditeventdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/band.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditband.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addeventdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edditbanddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addevent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="16" selection-start-line="44" selection-start-column="8" selection-end-line="47" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -646,10 +720,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="99" column="83" selection-start-line="99" selection-start-column="83" selection-end-line="99" selection-end-column="83" />
-          <folding>
-            <marker date="1440071204362" expanded="true" signature="1475:1942" placeholder="SELECT ev.EV..BANDS_TB..." />
-            <marker date="1440071204362" expanded="true" signature="7874:7934" placeholder="SELECT GATUN..BANDS_TB..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -828,12 +899,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.046838406">
+        <state vertical-scroll-proportion="0.047003526">
           <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding>
-            <marker date="1440071204362" expanded="true" signature="1475:1942" placeholder="SELECT ev.EV..BANDS_TB..." />
-            <marker date="1440071204362" expanded="true" signature="7874:7934" placeholder="SELECT GATUN..BANDS_TB..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
